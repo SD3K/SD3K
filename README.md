@@ -1,4 +1,4 @@
-### Hi there 👋
+[![SD3K's GitHub stats](https://github-readme-stats.vercel.app/api?username=SD3K)](https://github.com/SD3K/github-readme-stats)
 
 <!--
 **SD3K/SD3K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
