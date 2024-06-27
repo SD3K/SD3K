@@ -11,7 +11,7 @@
 
 
 
-[![SD3K's GitHub stats](https://github-readme-stats.vercel.app/api?username=SD3K&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![SD3K's GitHub stats](https://github-readme-stats.vercel.app/api?username=SD3K&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) --->
 
 ###  I'm a full-stack software engineer based in Citrus Heights, CA. 
 
